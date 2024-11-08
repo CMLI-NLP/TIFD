@@ -25,3 +25,17 @@ TIFD (Tibetan Instruction-Following Dataset) 是一个专门用于大语言模�
 ## 应用示例
 
 已成功应用于藏语大语言模型TiLamb（基于LLaMA2-7B）的监督微调，显著提升了模型的藏语指令理解和对话能力。
+
+## Citation
+
+如果您发现该项目对您的研究有用，请考虑引用：
+
+```bibtex
+@article{Zhuang2024TIFD,
+  title={TIFD: Tibetan Instruction-Following Dataset for Large Language Models Supervised Fine-Tuning},
+  author={Wenhao Zhuang and Dawa Cairen and Yuan Sun},
+  journal={Data Intelligence},
+  year={2024},
+  url={}
+}
+```
