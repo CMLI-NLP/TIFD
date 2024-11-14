@@ -20,7 +20,7 @@ TIFD (Tibetan Instruction-Following Dataset) 是一个专门用于大语言模�
 ## 数据集下载
 
 完整数据集可在以下位置获取：
-- [TIFD数据集]([/data/tifd.json](https://huggingface.co/datasets/CMLI-NLP/TIFD/tree/main))
+- [TIFD数据集][https://huggingface.co/datasets/CMLI-NLP/TIFD/tree/main]
 
 ## 应用示例
 
